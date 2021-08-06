@@ -8,15 +8,14 @@ body{
 
      background: linear-gradient(to bottom, #ffffff 0%, #0099ff 100%);
     font-family: 'Titillium Web', sans-serif;
-    background-attachment: fixed;
-    background-size:fixed;
+ 
 }
 
 /* ------------ container ------------ */
 .container{
     padding: 7px;
-    width:400px;
-    margin:30px auto;
+    width:380px;
+    margin: 0 auto;
 }
 
 /* ------------ header ------------ */
